@@ -7,6 +7,7 @@ TODO:
 
 ## Get all titles
 http://{HOST}:{PORT}/api/titles?page=1&page_size=1
+
 Return Example:
 {"code": "OK", "message": {"count": 2, "next": null, "previous": null, "results": [ ... ]}}
 
