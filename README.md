@@ -19,8 +19,8 @@ http://{HOST}:{PORT}/api/getvol?title_id=1
 # Get detailed information about the Title
 http://{HOST}:{PORT}/api/info?id=1
 
-# Get chapters by VOLUME_ID. Supports pagination
+### Get chapters by VOLUME_ID. Supports pagination
 http://{HOST}:{PORT}/api/chapter?volume_id=1&page=1&page_size=1
 
-# Set like to chapter by CHAPTER_ID
+### Set like to chapter by CHAPTER_ID
 http://{HOST}:{PORT}/api/like?chapter_id=1
