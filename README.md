@@ -3,7 +3,7 @@
 TODO:
 - Thread Controller
 
-#Api Examples
+# Api Examples
 
 ## Get all titles
 http://{HOST}:{PORT}/api/titles?page=1&page_size=1
